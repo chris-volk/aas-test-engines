@@ -1,3 +1,5 @@
+[![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)
+
 # Test Engines for the Asset Administration Shell
 
 The Asset Administration Shell (AAS) is a standard for Digital Twins.
